@@ -4,8 +4,8 @@
     <vendor email="kasaraddisachin@gmail.com" url="https://sachinkasaraddi.com/">Sachin Kasaraddi</vendor>
 
     <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
+    This simple plugin lists all available shortcuts for Android studio.<br>
+    Using these shortcuts boosts your efficiency at certain tasks in faster way.
     ]]></description>
 
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
@@ -14,9 +14,11 @@
     <depends>org.jetbrains.android</depends>
     <depends>com.intellij.modules.androidstudio</depends>
 
+    <vendor url="https://sachinkasaraddi.com/">Sachin Kasaraddi</vendor>
+
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow id="Hotkeys" secondary="true" anchor="right" factoryClass="com.sachin.hotkeys.actions.KeyMapFactory"/>
+        <toolWindow id="Hotkeys" secondary="true" icon="AllIcons.Actions.Show"  anchor="right" factoryClass="com.sachin.hotkeys.actions.KeyMapFactory"/>
     </extensions>
 
     <actions>
