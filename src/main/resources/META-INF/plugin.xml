@@ -1,0 +1,25 @@
+<idea-plugin>
+    <id>com.sachin.hotkeys</id>
+    <name>Hotkeys</name>
+    <vendor email="kasaraddisachin@gmail.com" url="https://sachinkasaraddi.com/">Sachin Kasaraddi</vendor>
+
+    <description><![CDATA[
+    Enter short description for your plugin here.<br>
+    <em>most HTML tags may be used</em>
+    ]]></description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>org.jetbrains.android</depends>
+    <depends>com.intellij.modules.androidstudio</depends>
+
+
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow id="Hotkeys" secondary="true" anchor="right" factoryClass="com.sachin.hotkeys.actions.KeyMapFactory"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
