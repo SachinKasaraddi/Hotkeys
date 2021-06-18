@@ -20,10 +20,6 @@
   <a href="#Licence">License</a>
 </p>
 
-<!-- blank line -->
-<iframe frameborder="none" width="245px" height="48px" src="https://plugins.jetbrains.com/embeddable/install/17027"></iframe>
-<!-- blank line -->
-
 ## Features
 This simple Android Studio plugin includes keyboard shortcuts for many common actions and shows the default keyboard shortcuts by operating system.
 * General
