@@ -64,7 +64,7 @@ If you want to open a PR that fixes a bug or adds a feature, then I can't thank 
 
 - [@SachinKasaraddi](https://github.com/SachinKasaraddi)
 
-##Licence
+## License
 
 ```
 MIT License
