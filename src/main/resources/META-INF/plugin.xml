@@ -4,8 +4,20 @@
     <vendor email="kasaraddisachin@gmail.com" url="https://sachinkasaraddi.com/">Sachin Kasaraddi</vendor>
 
     <description><![CDATA[
-    This simple plugin lists all available shortcuts for Android studio.<br>
-    Using these shortcuts boosts your efficiency at certain tasks in faster way.
+    An Android studio plugin for default keyboard shortcuts by operating system.<br>
+    <h3>keyboard shortcuts:</h3>
+     <ul>
+        <li>General</li>
+        <li>Navigating and searching within Studio</li>
+        <li>Viewing layouts</li>
+        <li>Design tools: Layout Editor</li>
+        <li>Design tools: Navigation Editor</li>
+        <li>Writing code</li>
+        <li>Build and run</li>
+        <li>Debugging</li>
+        <li>Refactoring</li>
+        <li>Version control / local history</li>
+      </ul>
     ]]></description>
 
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html

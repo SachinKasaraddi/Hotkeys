@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.sachin'
-version '1.0-SNAPSHOT'
+version '1.0.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
@@ -21,6 +21,18 @@ intellij {
 }
 patchPluginXml {
     changeNotes = """
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>"""
+      An Android studio plugin for default keyboard shortcuts by operating system.<br>
+    <h3>keyboard shortcuts:</h3>
+     <ul>
+        <li>General</li>
+        <li>Navigating and searching within Studio</li>
+        <li>Viewing layouts</li>
+        <li>Design tools: Layout Editor</li>
+        <li>Design tools: Navigation Editor</li>
+        <li>Writing code</li>
+        <li>Build and run</li>
+        <li>Debugging</li>
+        <li>Refactoring</li>
+        <li>Version control / local history</li>
+      </ul>"""
 }
