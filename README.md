@@ -9,15 +9,24 @@
 <h4 align="center">This simple Android Studio plugin includes keyboard shortcuts for many common actions.</h4>
 
 <p align="center">
-<img src="https://img.shields.io/badge/licence-MIT-orange.svg">
-<img src="https://img.shields.io/badge/release-v1.0.0-orange.svg">
+<a href="https://github.com/SachinKasaraddi/Hotkeys/blob/master/LICENSE">
+  <img src="https://img.shields.io/badge/licence-MIT-orange.svg">
+</a>
+<a href="https://github.com/SachinKasaraddi/Hotkeys/tags">
+  <img src="https://img.shields.io/github/v/release/SachinKasaraddi/Hotkeys">
+</a>
 </p>
 
 <p align="center">
   <a href="#Features">Features</a> •
+  [Features](#features)
   <a href="#build-process">Build process</a> •
   <a href="#contribute">Contribute</a> •
   <a href="#Licence">License</a>
+</p>
+
+<p align="center">
+  <a href="https://plugins.jetbrains.com/plugin/17027-hotkeys"><img src="images/jetbrains-button.png"></a>
 </p>
 
 ## Features
