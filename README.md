@@ -18,11 +18,10 @@
 </p>
 
 <p align="center">
-  <a href="#Features">Features</a> •
-  [Features](#features)
+  <a href="#features">Features</a> •
   <a href="#build-process">Build process</a> •
   <a href="#contribute">Contribute</a> •
-  <a href="#Licence">License</a>
+  <a href="#license">License</a>
 </p>
 
 <p align="center">
